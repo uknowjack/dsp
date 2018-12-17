@@ -1,3 +1,18 @@
+## Edits
+One line**
+Two line
+
+****
+
+**bold**
+*italic*
+------
+******
+______
+lines are all the same
+:smiley:
+
+
 # Getting Started with GitHub
 
 ## Objective
