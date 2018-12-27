@@ -44,13 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-list files
-list all files
-long list
-long list with human readable files
-?
-?
-?
+list files <br/>
+list all files <br/>
+long list <br/>
+long list with human readable files <br/>
+? <br/>
+? <br/>
+? <br/>
 ---
 
 ### Q3.  More List Files in Unix  
