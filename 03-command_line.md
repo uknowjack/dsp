@@ -49,7 +49,7 @@ list all files <br/>
 long list <br/>
 long list with human readable files <br/>
 ? <br/>
-? <br/>
+list files with newest first <br/>
 ? <br/>
 ---
 
@@ -57,7 +57,11 @@ long list with human readable files <br/>
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > -u displays by file access time <br/>
+-d displays only directories
+-1 displays each entry on line
+-f displays name as if they were directories
+-r displays in reverse order
 
 ---
 
@@ -65,7 +69,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > Converts an input in arguements into a command. I can use it to complete a list of commands
 
  
 
