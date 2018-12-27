@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-pwd
-mkdir (name of new dir here)
-rm (name of dir here) (-R removes all subfolders and the folder itself recursively)
-touch (name of file here)
-rm (name of file here)
-mv "(old file name)" "(new file name)"
-ls -a
-mv "(old file path)" "(new file path)"
-sudo
-open
+pwd <br/>
+mkdir (name of new dir here) <br/>
+rm (name of dir here) (-R removes all subfolders and the folder itself recursively) <br/>
+touch (name of file here) <br/>
+rm (name of file here) <br/>
+mv "(old file name)" "(new file name)" <br/>
+ls -a <br/>
+mv "(old file path)" "(new file path)" <br/>
+sudo (command here) <br/>
+open (file name here) <br/>
 
 ---
 
