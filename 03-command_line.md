@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+pwd
+mkdir (name of new dir here)
+rm (name of dir here) (-R removes all subfolders and the folder itself recursively)
+touch (name of file here)
+rm (name of file here)
+mv "(old file name)" "(new file name)"
+ls -a
+mv "(old file path)" "(new file path)"
+sudo
+open
 
 ---
 
@@ -35,8 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+list files
+list all files
+long list
+long list with human readable files
+?
+?
+?
 ---
 
 ### Q3.  More List Files in Unix  
